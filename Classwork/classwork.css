@@ -1,0 +1,33 @@
+.den{
+width: 4rem;
+}
+.fent1{  
+    margin-top: 120px;
+    color: black;
+    margin-left: 18rem;
+    margin-top: 20rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.background2{
+    background-image: url(images/mbr\ pic.jpg);
+    background-size: cover;
+    padding: 30vh;
+
+}
+.boot{
+    font-size: 1.1rem;
+}
+.gett{
+    background-color: peachpuff;
+    color: black;
+    font-size: 35px;
+    border-radius: 5px;
+    border-style: none;
+    margin-top: 5rem;
+}
+.card-ret{
+    
+    
+}
